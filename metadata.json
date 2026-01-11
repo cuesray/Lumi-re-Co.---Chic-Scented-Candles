@@ -1,0 +1,7 @@
+{
+  "name": "Lumière & Co. - Chic Scented Candles",
+  "description": "A premium, cute, and aesthetic e-commerce experience for hand-poured scented candles, featuring an AI Scent Matcher and a seamless checkout experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
